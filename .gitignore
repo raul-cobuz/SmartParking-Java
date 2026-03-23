@@ -1,0 +1,6 @@
+/out/
+/.idea/
+*.class
+*.iml
+parcare.dat
+chitanta_*.txt
