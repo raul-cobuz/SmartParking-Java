@@ -1,6 +1,5 @@
-/out/
-/.idea/
+.idea/
+out/
+target/
 *.class
-*.iml
-parcare.dat
-chitanta_*.txt
+.DS_Store
